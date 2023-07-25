@@ -5,6 +5,8 @@
 - Project from HCMUS's 2023 Applied Mathematics and Statistics course.
 - ***Disclaimer: This program only supports `RGB` color model.*** Others such as `RGBA`, `CMYK`, or `HSL`, etc. might produce questionable results or not work at all.
 
+![cross ellipses cropped kino](samples/forREADME.png)
+
 ## Content
 
 - `lab03_project02.ipynb` contains all the tasks and requirements of the project.
@@ -17,7 +19,7 @@
 
 - The `Miscellaneous functions` exist solely for handling inputs and outputs, they **definitely are NOT** the main focus of the notebook.
    - I recommend skipping them entirely and just reading the descriptions in the `Main function` section.
-- `Past implementations` at the bottom of the notebook are not entirely unusable, they are only inferior to the current implementation.
+- `Past implementations` at the bottom of the notebook are not entirely unusable, they are only inferior to the current implementations.
    - I think they are worth keeping to reflect the growth of the project.
 
 ## Getting Started
