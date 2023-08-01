@@ -29,7 +29,7 @@
 - Any IDE, preferably VSCode.
 - Python 3.11 and Jupyter package.
   - Alternatively, the `.ipynb` file can be run on Google Colab or Anaconda.
-- Everything from the `Import libraries and essential functions` section of the notebook.
+- Everything from the `Import libraries` section of the notebook.
 
 ### Installation
 
@@ -37,7 +37,7 @@
 
 ## Usage
 
-- **Make sure `Import libraries and essential functions` is run at least once.**
+- **Make sure `Import libraries` is run at least once.**
 - For saving, 2 supported filetypes are `.png` and `.pdf`.
    - *To opt out of saving, either leave the input `blank` or mess it up.*
 - **Inputs must follow the format of `<img_file> <function> <parameters>`. Inputs do NOT need to be fully complete.** As long as the `<img_file>` is correct, the `<function>` and **especially `<parameters>` are optional.** The `<parameters>` varies across functions, which is noted below.
